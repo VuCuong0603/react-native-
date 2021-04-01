@@ -46,6 +46,6 @@ const styles = StyleSheet.create({
     padding: 10,
     borderRadius:50,
    },
-});
+});git remote add origin https://github.com/VuCuong0603/react-native-.git
 
 export default App;
